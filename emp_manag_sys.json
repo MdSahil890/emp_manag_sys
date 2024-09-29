@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Md sahil hossain",
+        "age": 19,
+        "department": "IT",
+        "position": "CEO",
+        "salary": 225000
+    },
+    {
+        "id": 2,
+        "name": "Md sazid hossain",
+        "age": 24,
+        "department": "IT",
+        "position": "CTO",
+        "salary": 198000
+    },
+    {
+        "id": 3,
+        "name": "H",
+        "age": 44,
+        "department": "DD",
+        "position": "SSSS",
+        "salary": 88888
+    }
+]
